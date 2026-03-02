@@ -1,4 +1,4 @@
- ```markdown
+
 # Smart Contract Summary & Q&A Assistant
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
